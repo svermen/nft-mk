@@ -6,6 +6,7 @@
 .pnp.js
 secrets.json
 .secret
+package-lock.json
 
 # testing
 /coverage
